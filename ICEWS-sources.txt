@@ -1,0 +1,39 @@
+zh
+The Beijing News (China)
+Global Times (China)
+Ta Kung Pao (Hong Kong)
+Want Daily (Taiwan)
+Wen Wei Po (Hong Kong)
+Ming Pao Daily News (Hong Kong)
+HK01 Online News (Hong Kong)
+Reuters - News in Chinese (China)
+ru
+REGNUM News Agency (Russia)
+Rosbalt News Agency (Russia)
+Ukrinform: News (Ukraine)
+RBC-Ukraine (Ukraine)
+Arminfo News (Armenia)
+Kazinform International News Agency (Kazakhstan)
+BelaPAN Online (Belarus)
+Asharq Alawsat (Saudi Arabia)
+ar
+Al Masry Al-Youm (Egypt)
+Al Ayam (Bahrain)
+National News Agency Lebanon (Lebanon)
+Syrian Arab News Agency (Syria)
+Sotaliraq.com (Iraq)
+Addustour (Jordan)
+fr
+"Agence Ivoirienne de Presse: OSC"
+"Canada NewsWire: Factiva"
+"L'Expression: OSC"
+"Le Figaro: OSC"
+"L' Orient-Le Jour: OSC"
+"Euronews: OSC"
+es
+"ANSA - Spanish Service (BASP): OSC",
+"EFE News Service: Factiva",
+"Agence France-Presse: Factiva",
+"Reuters - Noticias Latinoamericanas: OSC",
+"AP Spanish Worldstream: OSC"
+"El Nacional: Factiva",
