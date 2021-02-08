@@ -1,0 +1,156 @@
+{
+  "ccode": "ARM",
+  "citation": null,
+  "codedDate": "2021-01-04",
+  "coder": "Parus Analytics",
+  "comment": "",
+  "continuation": null,
+  "country": "Armenia",
+  "date": "2021-01-02",
+  "enddate": "2021-01-02",
+  "event": "141",
+  "eventText": "Demonstrate or rally",
+  "headline": "Head of Shurnukh village in Armenia announced arrival of Azerbaijani military",
+  "id": "35801475",
+  "language": [
+    "en"
+  ],
+  "location": [
+    {
+      "city": "Kapan",
+      "country": "Armenia",
+      "district": "NULL",
+      "lat": "39.2075",
+      "long": "46.4058",
+      "province": "Syunik'i Marz"
+    }
+  ],
+  "protesterdemand": null,
+  "protesteridentity": "Citizen (Armenia): Social,General Population / Civilian / Social: Armenia",
+  "protesterviolence": null,
+  "publication": "Unknown: Factiva",
+  "region": "Europe",
+  "size": null,
+  "sizeCategory": null,
+  "stateresponse": null,
+  "text": "However, residents blocked the highway from Goris to Kapan for several hours in protest against the passivity of the Armenian authorities in this matter.",
+  "version": "1.0b1",
+  "year": "2021"
+}
+{
+  "ccode": "BIH",
+  "citation": null,
+  "codedDate": "2021-01-04",
+  "coder": "Parus Analytics",
+  "comment": "",
+  "continuation": null,
+  "country": "Bosnia and Herzegovina",
+  "date": "2021-01-01",
+  "enddate": "2021-01-01",
+  "event": "141",
+  "eventText": "Demonstrate or rally",
+  "headline": "After criticism, Bosnia sets up tents for freezing migrants",
+  "id": "35800184",
+  "language": [
+    "en"
+  ],
+  "location": [
+    {
+      "city": "NULL",
+      "country": "Bosnia and Herzegovina",
+      "district": "NULL",
+      "lat": "44",
+      "long": "18",
+      "province": "Bosnia"
+    }
+  ],
+  "protesterdemand": null,
+  "protesteridentity": "Immigrants (Bosnia and Herzegovina): General Population / Civilian / Social,Social: Bosnia and Herzegovina",
+  "protesterviolence": null,
+  "publication": "Associated Press Newswires: Factiva",
+  "region": "Europe",
+  "size": null,
+  "sizeCategory": null,
+  "stateresponse": null,
+  "text": "Earlier Friday, the migrants held a protest to highlight the horrendous conditions they are facing in Bosnia.",
+  "version": "1.0b1",
+  "year": "2021"
+}
+{
+  "ccode": "BIH",
+  "citation": null,
+  "codedDate": "2021-01-04",
+  "coder": "Parus Analytics",
+  "comment": "",
+  "continuation": null,
+  "country": "Bosnia and Herzegovina",
+  "date": "2021-01-02",
+  "enddate": "2021-01-02",
+  "event": "141",
+  "eventText": "Demonstrate or rally",
+  "headline": "Hundreds of migrants stranded in open near Bosnia-Croatia border hunger striking",
+  "id": "35800894",
+  "language": [
+    "en"
+  ],
+  "location": [
+    {
+      "city": "Bihac",
+      "country": "Bosnia and Herzegovina",
+      "district": "NULL",
+      "lat": "44.8169",
+      "long": "15.8708",
+      "province": "Federation of Bosnia and Herzegovina"
+    }
+  ],
+  "protesterdemand": null,
+  "protesteridentity": "Immigrants (Bosnia and Herzegovina): General Population / Civilian / Social,Social: Bosnia and Herzegovina",
+  "protesterviolence": null,
+  "publication": "HINA: Factiva",
+  "region": "Europe",
+  "size": null,
+  "sizeCategory": null,
+  "stateresponse": null,
+  "text": "However, they staged a protest demanding better conditions to stay in.",
+  "version": "1.0b1",
+  "year": "2021"
+}
+{
+  "ccode": "BLR",
+  "citation": null,
+  "codedDate": "2021-01-04",
+  "coder": "Parus Analytics",
+  "comment": "",
+  "continuation": null,
+  "country": "Belarus",
+  "date": "2021-01-01",
+  "enddate": "2021-01-01",
+  "event": "141",
+  "eventText": "Demonstrate or rally",
+  "headline": "Belarusian leader calls for 'national unity' in New Year speech",
+  "id": "35800284",
+  "language": [
+    "en"
+  ],
+  "location": [
+    {
+      "city": "NULL",
+      "country": "Belarus",
+      "district": "NULL",
+      "lat": "53.9",
+      "long": "27.5667",
+      "province": "NULL"
+    }
+  ],
+  "protesterdemand": null,
+  "protesteridentity": "Citizen (Belarus): Social,General Population / Civilian / Social: Belarus",
+  "protesterviolence": null,
+  "publication": "BBC Monitoring Ukraine & Baltics: Factiva",
+  "region": "Europe",
+  "size": null,
+  "sizeCategory": null,
+  "stateresponse": null,
+  "text": "He also praised 'people in uniform' for demonstrating to 'enemies' that the defence of the state and public safety would be ensured 'decisively and without hesitation'.",
+  "version": "1.0b1",
+  "year": "2021"
+}
