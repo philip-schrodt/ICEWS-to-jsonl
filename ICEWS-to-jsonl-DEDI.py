@@ -45,13 +45,6 @@ import json
 import re
 import os
 
-FILE_SUFFIX = "2018Q4"
-FILE_SUFFIX = "2019Q12"
-FILE_SUFFIX = "2018Q3"
-FILE_SUFFIX = "2018Q1"
-FILE_SUFFIX = "2020Q1partial"
-FILE_SUFFIX = "2020Q1"
-FILE_SUFFIX = "2019-June"
 FILE_SUFFIX = utilDEDI2021.MONTH_INFIX[:4] + "-" + utilDEDI2021.MONTH_INFIX[-2:]
 
 INFILE = "protest-texts-" + utilDEDI2021.MONTH_INFIX + utilDEDI2021.WEEK_SUFFIX + ".txt"
@@ -62,7 +55,7 @@ firstint = int(utilDEDI2021.MONTH_INFIX) * 100 + 1
 lastint = firstint + [0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31][int(utilDEDI2021.MONTH_INFIX[-2:])] - 1
 
 
-#ICEWS fields
+#ICEWS fields (this works for most of the older files)
 
 EVENT_ID = 0
 EVENT_DATE = 1
@@ -90,7 +83,7 @@ PRODUCTID = 22
 HOLDINGID = 23
 LANGUAGE = -1
 
-# new fields with the addition of CAMEO code sometime in May-2020
+# new fields with the addition of CAMEO code at the beginning of June-2020, specifically the change occurs with events.20200601073501.Release468.csv
 EVENT_ID = 0
 EVENT_DATE = 1
 SOURCE_NAME = 2
